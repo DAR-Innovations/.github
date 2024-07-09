@@ -1,8 +1,8 @@
-# DAR Innovations
+# DAR Innovations 🌟
 
 Welcome to DAR Innovations! We are a team of passionate individuals focused on developing innovative solutions and startup ideas that make a difference.
 
-## Projects
+## Projects 🚀
 
 ### 1. Kaiteki
 
@@ -28,21 +28,20 @@ Victu is a diet-tracking application that provides personalized nutrition plans 
 
 Repository: [Link to Victu repository](https://github.com/DAR-Innovations/victu-frontend)
 
-### 4. HotCat Delivery
+### 5. HotCat Delivery
 
 HotCat is an e-commerce food delivery application that allows users to order food from various restaurants and have it delivered to their location.
 
 Repository: [Link to HotCat repository](https://github.com/DAR-Innovations/hotcat-delivery)
 
+## Team Members 👨‍💻
 
-## Team Members
-
-1. [Diar Begisbayev](https://github.com/DiarCode) - [Architecture, Core Developer]
-2. [Aliya Tazhigaliyeva](https://github.com/Aliktae) - [Project Manager, Frontend Developer]
+1. [Diar Begisbayev](https://github.com/DiarCode) - System Architecture, Core Developer
+2. [Aliya Tazhigaliyeva](https://github.com/Aliktae) - Project Manager, Frontend Developer
 3. [Ramazan Seiitbek](https://github.com/maulerrr) - Full-Stack Developer, ML Engineer
 
-## Contact Us
+## Contact Us 📧
 
-We're always open to collaboration and feedback! Feel free to reach out to us at or through our GitHub repositories.
+We're always open to collaboration and feedback! Feel free to reach out to us through our GitHub repositories.
 
-Thank you for visiting our repository and we look forward to sharing more exciting developments with you!
+Thank you for visiting our repository, and we look forward to sharing more exciting developments with you! 🎉
